@@ -11,3 +11,7 @@ field
 5
 ]
 ;
+
+
+//Ahora hacemos un drop de la tabla
+DROP TABLE TEMP_DATA;
