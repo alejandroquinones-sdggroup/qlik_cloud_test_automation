@@ -1,0 +1,2 @@
+//This file simply declares a variable value
+SET vTrialVariable = 0;
