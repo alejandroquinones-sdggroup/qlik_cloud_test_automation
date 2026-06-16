@@ -13,5 +13,5 @@ field
 ;
 
 
-//Ahora hacemos un drop de la tabla
+//Ahora hacemos un drop de la tabla. Modificado.
 DROP TABLE TEMP_DATA;
