@@ -1,2 +1,13 @@
 //Esto es una prueba para ver si se setea el contenido del script en la aplicación de Qlik Sense.
 
+//Ahora introducimos un load inline
+TEMP_DATA:
+LOAD * INLINE [
+field
+1
+2
+3
+4
+5
+]
+;
