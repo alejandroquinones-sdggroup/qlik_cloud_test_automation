@@ -1,2 +1,3 @@
 //This file simply declares a variable value
 SET vTrialVariable = 0;
+SET vSecondTrialVariable = 1;
