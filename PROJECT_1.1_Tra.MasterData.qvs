@@ -1,1 +1,13 @@
+///$tab PROJECT_1.1_Tra.MasterData.qvs
 
+//We create temp data in this qvs file
+MASTER_DATA:
+LOAD lower(field) AS field INLINE [
+field
+A
+B
+C
+D
+E
+]
+;
