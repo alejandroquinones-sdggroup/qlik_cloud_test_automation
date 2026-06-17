@@ -1,4 +1,4 @@
-///$tab PROJECT_1_Tra.Main.qvs
+///$tab PROJECT_1.0_Tra.Main.qvs
 SET ThousandSep='.';
 SET DecimalSep=',';
 SET MoneyThousandSep='.';
