@@ -4,7 +4,7 @@
 MASTER_DATA:
 LOAD lower(field) AS field INLINE [
 field
-name1
+name1üäÁ
 name2
 name3
 name4
