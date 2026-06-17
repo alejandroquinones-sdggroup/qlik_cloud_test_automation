@@ -1,0 +1,11 @@
+///$tab PROJECT_2.0_Qlikmart.Data.qvs
+
+//We load data from the transformation layer
+MASTER_DATA:
+LOAD * INLINE [
+amount,    name
+123,       A
+1243124,   B
+123,       C
+]
+;
