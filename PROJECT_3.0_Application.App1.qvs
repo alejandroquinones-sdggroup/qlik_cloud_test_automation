@@ -1,2 +1,4 @@
 ///$tab PROJECT_3.0_Application.App1.qvs
 Binary 3768c55b-3103-48e3-8c0c-df250b9dad2a;
+
+SET vLoadTime = Now();

@@ -4,10 +4,10 @@
 MASTER_DATA:
 LOAD lower(field) AS field INLINE [
 field
-A
-B
-C
-D
-E
+name1
+name2
+name3
+name4
+name5
 ]
 ;
