@@ -1,0 +1,13 @@
+///$tab PROJECT_0.1_Ext.MasterData.qvs
+
+//We create temp data in this qvs file
+MASTER_DATA:
+LOAD * INLINE [
+field
+A
+B
+C
+D
+E
+]
+;
