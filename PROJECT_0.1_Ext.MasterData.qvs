@@ -4,13 +4,6 @@
 MASTER_DATA:
 LOAD * INLINE [
 field
-A
-B
-C
-D
-E
-F
-G
-H
+case_block
 ]
 ;
