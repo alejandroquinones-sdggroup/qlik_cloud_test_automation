@@ -1,4 +1,6 @@
 ///$tab PROJECT_0.0_Ext.Main.qvs
+
+//New test
 SET ThousandSep='.';
 SET DecimalSep=',';
 SET MoneyThousandSep='.';
