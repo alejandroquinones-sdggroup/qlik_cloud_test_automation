@@ -5,11 +5,5 @@ MASTER_DATA:
 LOAD * INLINE [
 amount,    name
 123,       A
-1243124,   B
-123,       C
-11111111, D
-123213213,  E
-111212213,  F
-21321313,  G
 ]
 ;
