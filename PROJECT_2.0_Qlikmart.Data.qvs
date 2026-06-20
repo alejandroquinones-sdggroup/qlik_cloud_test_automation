@@ -4,6 +4,6 @@
 MASTER_DATA:
 LOAD * INLINE [
 amount,    name
-123,       A
+case_block,  1
 ]
 ;
