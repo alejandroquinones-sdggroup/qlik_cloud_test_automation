@@ -1,6 +1,6 @@
 ///$tab PROJECT_1.0_Tra.Main.qvs
 
-////New test 3.0...............
+////New test 3.0.................
 
 SET vNewSysVariable = '';
 SET ThousandSep='.';
