@@ -5,5 +5,6 @@ MASTER_DATA:
 LOAD * INLINE [
 field
 case_block
+case_block_2
 ]
 ;
