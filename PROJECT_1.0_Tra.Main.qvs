@@ -1,6 +1,6 @@
 ///$tab PROJECT_1.0_Tra.Main.qvs
 
-//Test 2
+//Test 2.0
 SET vNewSysVariable = '';
 SET ThousandSep='.';
 SET DecimalSep=',';
