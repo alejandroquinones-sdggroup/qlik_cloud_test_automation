@@ -1,0 +1,5 @@
+SET vExtractionAppId = '9b63ecac-541a-41ca-94b9-a842c2aad276';
+SET vTransformationAppId = 'e1e75a35-d105-4745-977e-50e2a897f3a9';
+SET vQlikmartAppId = '3768c55b-3103-48e3-8c0c-df250b9dad2a';
+SET vAppId = '0d7f99e8-20a5-4862-b452-abdd4d067402';
+
